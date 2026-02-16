@@ -1,0 +1,36 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Fri Feb 13 15:43:25 2026
+# Process ID: 23280
+# Current directory: D:/Projects/POCP/vivado
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8436 D:\Projects\POCP\vivado\Lab1.xpr
+# Log file: D:/Projects/POCP/vivado/vivado.log
+# Journal file: D:/Projects/POCP/vivado\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Projects/POCP/vivado/Lab1.xpr
+uupdate_compile_order -fileset sources_1
+file mkdir D:/Projects/POCP/vivado/Lab1.srcs/sources_1/new
+close [ open D:/Projects/POCP/vivado/Lab1.srcs/sources_1/new/task1.vhd w ]
+add_files D:/Projects/POCP/vivado/Lab1.srcs/sources_1/new/task1.vhd
+update_compile_order -fileset sources_1
+close [ open D:/Projects/POCP/vivado/Lab1.srcs/sources_1/new/task2.vhd w ]
+add_files D:/Projects/POCP/vivado/Lab1.srcs/sources_1/new/task2.vhd
+update_compile_order -fileset sources_1
+close [ open D:/Projects/POCP/vivado/Lab1.srcs/sources_1/new/task3.vhd w ]
+add_files D:/Projects/POCP/vivado/Lab1.srcs/sources_1/new/task3.vhd
+update_compile_order -fileset sources_1
+close [ open D:/Projects/POCP/vivado/Lab1.srcs/sources_1/new/task4.vhd w ]
+add_files D:/Projects/POCP/vivado/Lab1.srcs/sources_1/new/task4.vhd
+update_compile_order -fileset sources_1
+close [ open D:/Projects/POCP/vivado/Lab1.srcs/sources_1/new/task5.vhd w ]
+add_files D:/Projects/POCP/vivado/Lab1.srcs/sources_1/new/task5.vhd
+update_compile_order -fileset sources_1
+close [ open D:/Projects/POCP/vivado/Lab1.srcs/sources_1/new/task6.vhd w ]
+add_files D:/Projects/POCP/vivado/Lab1.srcs/sources_1/new/task6.vhd
+update_compile_order -fileset sources_1
+close [ open D:/Projects/POCP/vivado/Lab1.srcs/sources_1/new/task7.vhd w ]
+add_files D:/Projects/POCP/vivado/Lab1.srcs/sources_1/new/task7.vhd
+update_compile_order -fileset sources_1
