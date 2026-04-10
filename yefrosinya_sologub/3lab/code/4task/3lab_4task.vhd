@@ -23,7 +23,7 @@ begin
             elsif EN = '1' then
                 if counter = (K/2)-1 then
                     counter <= 0;
-                    store <= not store; -- триггер и инвертор
+                    store <= not store; -- inv + trigger
                 else
                     counter <= counter + 1;
                 end if;
