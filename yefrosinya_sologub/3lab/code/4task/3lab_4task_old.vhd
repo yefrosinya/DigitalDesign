@@ -20,6 +20,7 @@ begin
         if rising_edge(CLK) then
             if RST = '1' then
                 store <= '0';
+                counter <= 0;
             elsif EN = '1' then
                 if counter = (K/2)-1 then
                     counter <= 0;
